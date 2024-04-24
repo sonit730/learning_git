@@ -25,7 +25,7 @@ A---B---C  (master)
 // sau khi merge
 
 A---B---C---M  (master)
-    \     /
+    \       /
      D---E---F  (feature)
 ```
 > M là commit merge mới mà Git tự động tạo ra để kết hợp các thay đổi từ nhánh feature vào nhánh master.
